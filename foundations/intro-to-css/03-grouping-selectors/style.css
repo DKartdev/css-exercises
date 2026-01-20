@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+.black-button{
+background-color: black;
+color: rgb(226, 226, 217);
+
+}
+
+.yelow-button{
+background-color: rgb(218, 191, 42);
+color: black;
+}
+
+.black-button, .yelow-button{
+font-size: 28px;
+font-style:Helvetica,"Times New Roman ", sans-serif;
+
+}
+
