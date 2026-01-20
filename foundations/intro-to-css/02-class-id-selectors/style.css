@@ -1,1 +1,22 @@
-/* Add CSS Styling */
+
+.odd-numbers{
+background-color: rgb(252, 115, 160);
+font-style: verdana DejaVu Sans sans-serif ;
+
+
+}
+.bigger{
+    font-size: 24px;
+}
+
+#blue-text{
+    color: blue;
+    font-size: 36px;
+}
+
+#green-text{
+    background-color: rgb(45, 187, 88);
+    font-size: 24px;
+    font-weight: bold;
+}
+
