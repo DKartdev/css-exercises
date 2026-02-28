@@ -24,3 +24,38 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.container{
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+  margin-top: 60px;
+  
+}
+ .title{
+
+  text-align: center;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; 
+  all this code was not needed, simply text alignment. was no need for flex box*/
+  margin-top: 60px;
+ }
+
+
+/* this could have been the same class like .info */
+
+.barberry, .chili, .pepper, .saffron{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+max-width: 200px;
+text-align: center;
+gap: 32px;
+margin-top: 60px;
+
+
+
+
+}
